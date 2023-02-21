@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/laravel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/laravel-microservices-01" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/micro-01" vcs="Git" />
   </component>
 </project>
